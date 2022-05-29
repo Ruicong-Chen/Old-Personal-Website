@@ -19,3 +19,11 @@ Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandraka
 The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), 2020.  
 [[paper]](http://www.mit.edu/~fadel/papers/umedic-paper.pdf) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
 
+# Chip Gallery
+
+### The First Secure ADC for Video Applications
+
+### Wireless and Batteryless Self-Reconfigurable Micro-Implants for Cross-Tissue Biomedical Applications
+
+### LED Driver Chip
+
