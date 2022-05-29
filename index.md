@@ -24,6 +24,5 @@ The 2020 Annual International Conference on Mobile Computing and Networking (Mob
 ### The First Secure ADC for Video Applications
 
 ### Wireless and Batteryless Self-Reconfigurable Micro-Implants for Cross-Tissue Biomedical Applications
-
-### LED Driver Chip
+![Micro-Implants for Biomedical Applications](./images/MobiCOM20 "Micro-Implants for Biomedical Applications")
 
