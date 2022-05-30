@@ -4,6 +4,12 @@ Before joining MIT, I received a bachelor's degree in EECS from Peking Universit
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
+# News
+
+### May. 2022. Direct HESE SAR is accepted to ISLPED 2022.
+### Mar. 2022. RaM-SAR is accepted to VLSI-C 2022!
+### Sep. 2020. Our paper is accepted to MobiCOM 2020!
+
 # Publications
 
 ### **RaM-SAR: A Low Energy and Area Overhead, 11.3fJ/conv.-step 12b 25MS/s Secure Random-Mapping SAR ADC with Power and EM Side-Channel Attack Resilience**
@@ -21,8 +27,17 @@ The 2020 Annual International Conference on Mobile Computing and Networking (Mob
 
 # Chip Gallery
 
-### The First Secure ADC for Video Applications
-
 ### Wireless and Batteryless Self-Reconfigurable Micro-Implants for Cross-Tissue Biomedical Applications
 ![Micro-Implants for Biomedical Applications](./images/MobiCOM20.png "Micro-Implants for Biomedical Applications")
+
+# Honors and Awards
+
+### 2021 MIT EECS Commlab Fellowship
+### 2019 Outstanding Graduate in Beijing
+### 2019 Outstanding Graduate of Peking University
+### 2017 China National Scholarship
+
+# Services
+
+### Circuit Session Chair of MIT MTL Annual Research Conference (MARC) 2022
 
