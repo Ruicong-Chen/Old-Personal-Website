@@ -6,7 +6,7 @@ You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
 # News
 
-*  Jun. 2022. MIT NEWS has an [[article]](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our chip!
+*  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our chip!
 *  May. 2022. Direct HESE SAR is accepted to ISLPED 2022.  
 *  Mar. 2022. RaM-SAR is accepted to VLSI-C 2022!  
 *  Sep. 2020. Our paper is accepted to MobiCOM 2020!  
