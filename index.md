@@ -16,7 +16,6 @@ You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 ### **RaM-SAR: A Low Energy and Area Overhead, 11.3fJ/conv.-step 12b 25MS/s Secure Random-Mapping SAR ADC with Power and EM Side-Channel Attack Resilience**
 <u>Ruicong Chen</u>, Hanrui Wang, Anantha Chandrakasan, Hae-Seung Lee 
 The 2022 Symposium on VLSI Circuits (VLSI-C), 2022. 
-
 [[paper]](https://ieeexplore.ieee.org/document/9830365) 
 
 ### **A Bit-level Sparsity-aware SAR ADC with Direct Hybrid Encoding for Signed Expressions for AIoT Applications**
