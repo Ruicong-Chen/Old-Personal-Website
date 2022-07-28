@@ -20,7 +20,8 @@ The 2022 Symposium on VLSI Circuits (VLSI-C), 2022.
 
 ### **A Bit-level Sparsity-aware SAR ADC with Direct Hybrid Encoding for Signed Expressions for AIoT Applications**
 <u>Ruicong Chen</u>, H. T. Kung, Anantha Chandrakasan, Hae-Seung Lee  
-The 2022 International Symposium on Low Power Electronics and Design (ISLPED), 2022.  
+The 2022 International Symposium on Low Power Electronics and Design (ISLPED), 2022. 
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3531437.3539700) 
 
 ### **Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity**
 Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandrakasan, Fadel Adib  
