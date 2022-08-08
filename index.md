@@ -1,6 +1,6 @@
 I am a third year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in circuit design with a focus on mixed-signal security and in-memory computing. I have multiple tape-out experiences with analog, mixed-signal, and digital cirucits.
 
-Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019. I also did a summer internship at UC Austin working with Professor Nan Sun.
+Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019. I also did a summer internship at UT Austin working with Professor [Nan Sun](https://www.sunresearchgroup.top/en/).
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
