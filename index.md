@@ -1,7 +1,7 @@
 I am a third year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in circuit design with a focus on mixed-signal security and in-memory computing. 
 
 *  I have excellence in analog/mixed-signal/digital chip design with proved record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365).
-*  I have experience in complex system design with custom designed chip with top publication such as [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
+*  I have experience in complex system design based on custom designed chip with top publication such as [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 *  I am always curious about new technology and passionate about doing high-impact work.
 
 Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019. I also did a summer internship at UT Austin working with Professor [Nan Sun](https://www.sunresearchgroup.top/en/).
