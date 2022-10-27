@@ -1,16 +1,14 @@
-I am a fourth year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in circuit design with a focus on mixed-signal security, in-memory computing, and machine learning. 
+I am a fourth year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in machine learning attacks for hardware security and machine learning accelerators.
 
-*  I have excellence in analog/mixed-signal/digital chip design with proved record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365).
-*  I have experience in complex system design based on custom designed chip with top publication such as [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
-*  I am always curious about new technology and passionate about doing high-impact work.
+I have excellence in independent research with proved record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
-Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019.
+Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019 with National Scholarship (1%).
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
 # News
 
-*  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our chip!
+*  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our research!
 *  May. 2022. Direct HESE SAR is accepted to ISLPED 2022.  
 *  Mar. 2022. RaM-SAR is accepted to VLSI-C 2022!  
 *  Sep. 2020. Our paper is accepted to MobiCOM 2020!  
@@ -32,20 +30,25 @@ Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandraka
 The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), 2020.  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
 
-# Chip Gallery
+# Related courses
 
-* RaM-SAR: The first secure ADC for video applications!
-![RaM-SAR](./images/VLSI22.png "The first secure ADC for video applications!")
+* Machine Learning
+* Quantitative Methods for Natural Language Processing
+* Advanced Computer Vision
+* Hardware Architecture for Deep Learning
 
-*  Wireless and Batteryless Self-Reconfigurable Micro-Implants for Cross-Tissue Biomedical Applications  
-![Micro-Implants for Biomedical Applications](./images/MobiCOM20.png "Micro-Implants for Biomedical Applications")
+# Physics Olympiad
+
+* 1st Prize, 33th Chinese National Physics Competition of Undergrad 2016
+* Bronze medal, 31th Chinese National Physics Olympiad
+* Gold medal, Pan-Pearl River Delta and Chinese Elite Schools Physics Olympiad
 
 # Honors and Awards
 
 *  2021 MIT EECS Commlab Fellowship  
 *  2019 Outstanding Graduate in Beijing  
 *  2019 Outstanding Graduate of Peking University  
-*  2017 China National Scholarship  
+*  2017 China National Scholarship (1%) 
 
 # Services
 
