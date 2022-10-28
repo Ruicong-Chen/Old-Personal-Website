@@ -1,6 +1,6 @@
 I am a fourth year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in machine learning attacks for hardware security and machine learning accelerators.
 
-I have excellence in independent research with proved record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
+I have excellence in independent research with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
 Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019 with National Scholarship (1%).
 
