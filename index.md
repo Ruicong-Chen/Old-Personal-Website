@@ -15,19 +15,24 @@ You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
 # Publications
 
+### **Sniff-SAR: A 9.8fJ/c.-s 12b secure ADC with detection-driven protection against power and EM side-channel attack**
+
+<u>Ruicong Chen<u>, Anantha Chandrakasan, Hae-Seung Lee
+The 2023 IEEE Custom Integrated Circuits Conference (CICC), April 2023
+
 ### **RaM-SAR: A Low Energy and Area Overhead, 11.3fJ/conv.-step 12b 25MS/s Secure Random-Mapping SAR ADC with Power and EM Side-Channel Attack Resilience**
 <u>Ruicong Chen</u>, Hanrui Wang, Anantha Chandrakasan, Hae-Seung Lee 
-The 2022 Symposium on VLSI Circuits (VLSI-C), 2022. 
+The 2022 Symposium on VLSI Circuits (VLSI-C), June 2022. 
 [[paper]](https://ieeexplore.ieee.org/document/9830365) 
 
 ### **A Bit-level Sparsity-aware SAR ADC with Direct Hybrid Encoding for Signed Expressions for AIoT Applications**
 <u>Ruicong Chen</u>, H. T. Kung, Anantha Chandrakasan, Hae-Seung Lee  
-The 2022 International Symposium on Low Power Electronics and Design (ISLPED), 2022. 
+The 2022 International Symposium on Low Power Electronics and Design (ISLPED), August 2022. 
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3531437.3539700) 
 
 ### **Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity**
 Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandrakasan, Fadel Adib  
-The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), 2020.  
+The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), September 2020.  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
 
 # Related courses
