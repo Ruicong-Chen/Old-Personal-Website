@@ -1,4 +1,4 @@
-I am a fourth year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in machine learning attacks for hardware security and machine learning accelerators.
+I am a final year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in machine learning attacks for hardware security and machine learning accelerators.
 
 I have excellence in independent research with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
@@ -6,8 +6,12 @@ Before joining MIT, I received a bachelor's degree in EECS from Peking Universit
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
+Last updated: 04/12/2023
+
 # News
 
+*  I will be joining Apple as Display Platform Architect
+*  Feb. 2023 Sniff-SAR is accepted to CICC 2023!
 *  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our research!
 *  May. 2022. Direct HESE SAR is accepted to ISLPED 2022.  
 *  Mar. 2022. RaM-SAR is accepted to VLSI-C 2022!  
@@ -56,7 +60,7 @@ The 2020 Annual International Conference on Mobile Computing and Networking (Mob
 
 # Services
 
-*  Active reviewers of T-CAS I, T-CAS II and TVLSI
+*  Active reviewers of ISCAS, T-CAS I, T-CAS II and TVLSI
 *  Circuit Session Chair of MIT MTL Annual Research Conference (MARC) 2022
 
 
