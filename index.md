@@ -1,4 +1,4 @@
-I am a final year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). I work in machine learning attacks for hardware security and machine learning accelerators.
+I am a final year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). Professor [Song Han](https://songhan.mit.edu/) is one of my thesis committee member. I work in machine learning attacks for hardware security and machine learning accelerators.
 
 I have excellence in independent research with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
@@ -10,7 +10,7 @@ Last updated: 04/12/2023
 
 # News
 
-*  I will be joining Apple as Display Platform Architect
+*  I will be joining Apple as Display Platform Architect in Apple Park
 *  Feb. 2023 Sniff-SAR is accepted to CICC 2023!
 *  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our research!
 *  May. 2022. Direct HESE SAR is accepted to ISLPED 2022.  
@@ -37,13 +37,6 @@ The 2022 International Symposium on Low Power Electronics and Design (ISLPED), A
 Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandrakasan, Fadel Adib <br> 
 The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), September 2020.  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
-
-# Related courses
-
-* Machine Learning
-* Quantitative Methods for Natural Language Processing
-* Advanced Computer Vision
-* Hardware Architecture for Deep Learning
 
 # Physics Olympiad
 
