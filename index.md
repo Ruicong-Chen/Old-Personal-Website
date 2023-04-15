@@ -10,7 +10,7 @@ Last updated: 04/12/2023
 
 # News
 
-*  I will be joining Apple as Display Platform Architect in Apple Park
+*  I will be joining Apple as Display EE Architect in Apple Park
 *  Feb. 2023 Sniff-SAR is accepted to CICC 2023!
 *  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our research!
 *  May. 2022. Direct HESE SAR is accepted to ISLPED 2022.  
