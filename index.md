@@ -23,6 +23,7 @@ Last updated: 05/05/2023
 ### **Sniff-SAR: A 9.8fJ/c.-s 12b secure ADC with detection-driven protection against power and EM side-channel attack**
 <u>Ruicong Chen</u>, Anantha Chandrakasan, Hae-Seung Lee <br>
 The 2023 IEEE Custom Integrated Circuits Conference (CICC), April 2023
+[[paper]](https://ieeexplore.ieee.org/document/10121323)
 
 ### **RaM-SAR: A Low Energy and Area Overhead, 11.3fJ/conv.-step 12b 25MS/s Secure Random-Mapping SAR ADC with Power and EM Side-Channel Attack Resilience**
 <u>Ruicong Chen</u>, Hanrui Wang, Anantha Chandrakasan, Hae-Seung Lee <br>
