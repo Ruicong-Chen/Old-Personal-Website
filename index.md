@@ -1,4 +1,4 @@
-I am a Display EE Architect at Apple Park.
+I am a Display EE Architect at [Apple](https://apple.com). I mainly work in the iconic Ring building.
 
 I got my Ph.D. and M.S. degree at MIT EECS under the supervision of Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). Professor [Song Han](https://songhan.mit.edu/) was one of my thesis committee member. I worked in machine learning attacks for hardware security and machine learning accelerators with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
