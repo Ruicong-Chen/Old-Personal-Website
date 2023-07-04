@@ -1,16 +1,16 @@
-I am a final year PhD student at MIT EECS advised by Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). Professor [Song Han](https://songhan.mit.edu/) is one of my thesis committee member. I work in machine learning attacks for hardware security and machine learning accelerators.
+I am a Display EE Architect at Apple Park.
 
-I have excellence in independent research with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
+I got my Ph.D. and M.S. degree at MIT EECS under the supervision of Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). Professor [Song Han](https://songhan.mit.edu/) was one of my thesis committee member. I worked in machine learning attacks for hardware security and machine learning accelerators with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
 Before joining MIT, I received a bachelor's degree in EECS from Peking University in 2019 with National Scholarship (1%).
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
-Last updated: 05/05/2023
+Last updated: 07/04/2023
 
 # News
 
-*  I will be joining Apple as Display EE Architect in Apple Park
+*  Jun. 2023 A wonderful journey started @Apple XD
 *  May. 2023 I successfully defended my Ph.D. thesis!
 *  Feb. 2023 Sniff-SAR is accepted to CICC 2023!
 *  Jun. 2022. MIT NEWS has an [article](https://news.mit.edu/2022/analog-digital-converter-attack-side-channel-0614) to highlight our research!
