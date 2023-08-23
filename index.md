@@ -40,8 +40,10 @@ Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandraka
 The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), September 2020.  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
 
-# Physics Olympiad
+# Projects
+Accelerating Deep Learning Inference on Multi-Chip Architecture [Report](papers/6_825_Project_Report.pdf)
 
+# Physics Olympiad
 * 1st Prize, 33th Chinese National Physics Competition of Undergrad 2016
 * Bronze medal, 31th Chinese National Physics Olympiad
 * Gold medal, Pan-Pearl River Delta and Chinese Elite Schools Physics Olympiad
