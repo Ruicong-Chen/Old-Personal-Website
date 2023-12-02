@@ -1,4 +1,4 @@
-I am a Display EE Architect at [Apple](https://apple.com). I mainly work in the iconic Ring building.
+I am a Display EE Architect at [Apple](https://apple.com). I mainly work in the iconic Ring building. Research & development of display architecture across panel, module, silicon, and compensation algorithms for next generation game-changing Apple products. Team's past projects: iPhone 15 Pro (iPhone with thinest bezzel), iPhone 14 Pro (first iPhone with Always-on display), iPhone 13 Pro (first ProMotion iPhone), Apple Watch series 1, iPhone X (first OLED iPhone), iPhone 7, iPhone 6, iPhone 5. We continue to incubate new product ideas to bring surprise and the best user experience to our customers.
 
 I got my Ph.D. and M.S. degree at MIT EECS under the supervision of Professor [Anantha Chandrakasan](https://chandrakasan.mit.edu/) and Professor [Hae-Seung Lee](https://hslee.mit.edu/). Professor [Song Han](https://songhan.mit.edu/) was one of my thesis committee member. I worked in machine learning attacks for hardware security and machine learning accelerators with a proven record of leading publications such as [VLSI-C 2022](https://ieeexplore.ieee.org/document/9830365) and [MobiCOM 2020](https://dl.acm.org/doi/abs/10.1145/3372224.3419216).
 
@@ -6,10 +6,16 @@ Before joining MIT, I received a bachelor's degree in EECS from Peking Universit
 
 You can access my curriculum vitae [here](misc/CV_Ruicong_Chen.pdf).
 
-Last updated: 07/04/2023
+Last updated: 12/02/2023
+
+# Mixed-signal hardware security and diversity statement
+I commit 1~2 hours every week to provide guidance, suggestions, and/or mentorships for students interested in exploring the side-channel security of mixed-signal hardware and also students from underrepresented groups. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScflXcPUOBmYEjIet3aCkks09JydTLKlJJR9M6jw9uNlrXiBA/viewform?usp=pp_url) if you are interested.
+
+For detailed information and future directions about the secure ADC project, please refer to my [PhD thesis](https://dspace.mit.edu/handle/1721.1/151539) for more information. Background is described in session 2.2.2 and previous work is summarized in 2.4. Measurement setup is described in session 4.5, 4.6, 5.5 and 5.6. Future directions are discussed in session 6.2.
 
 # News
 
+*  Dec. 2023 Invited Talk at Peking University: Hardware Security in AI Era
 *  Jun. 2023 A wonderful journey started @Apple XD
 *  May. 2023 I successfully defended my Ph.D. thesis!
 *  Feb. 2023 Sniff-SAR is accepted to CICC 2023!
@@ -40,9 +46,6 @@ Mohammed Radewan Abdelhamid, <u>Ruicong Chen</u>, Jongyuk Cho, Anantha Chandraka
 The 2020 Annual International Conference on Mobile Computing and Networking (MobiCom), September 2020.  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) [[website]](https://www.media.mit.edu/projects/umedic/overview/)
 
-# Projects
-Accelerating Deep Learning Inference on Multi-Chip Architecture [Report](papers/6_825_Project_Report.pdf)
-
 # Physics Olympiad
 * 1st Prize, 33th Chinese National Physics Competition of Undergrad 2016
 * Bronze medal, 31th Chinese National Physics Olympiad
@@ -57,7 +60,7 @@ Accelerating Deep Learning Inference on Multi-Chip Architecture [Report](papers/
 
 # Services
 
-*  Active reviewers of ISCAS, T-CAS I, T-CAS II and TVLSI
+*  Active reviewers of ISCAS, T-CAS I, T-CAS II, TVLSI, and OJCAS
 *  Circuit Session Chair of MIT MTL Annual Research Conference (MARC) 2022
 
 
